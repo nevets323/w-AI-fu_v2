@@ -5,9 +5,9 @@ import { importAuthFromFile_impl } from "./import_auth";
  */
 export class Auth {
     "novelai" = {
-        mail: "",
-        password: "",
+        api_key: "",
     };
+
     "openai" = {
         token: "",
     };
